@@ -1,0 +1,4 @@
+deadapp.herokuapp.com
+test.github.io
+mybucket.s3.amazonaws.com
+suspicious.surge.sh
